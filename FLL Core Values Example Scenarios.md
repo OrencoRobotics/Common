@@ -6,7 +6,7 @@ There is general disagreement about how to solve a particularly tricky technical
 
 All the kids participating in the FLL Robotics competition make an effort to remember their responsibilities and show up looking sharp and wearing their team uniform/colors.
 
-One member of the group is struggling to solve their assigned task so two others pitch in to work with the first and complete the task.
+One member of the group is struggling to solve their assigned task so two others pitch in to work with the first and they complete the task together.
 
 The group agrees to have a mascot and they name it Timmy! Whenever they successfully complete a difficult task they always celebrate with Timmy!
 
