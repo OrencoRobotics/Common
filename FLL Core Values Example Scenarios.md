@@ -54,6 +54,17 @@ Two former FLL team members hear that their former school's team is struggling. 
 
 ## We display Gracious Professionalism® and Coopertition® in everything we do.
 
-
+Two teams are competing at the tournament table when one team member notices that the robot of the opposing team has a loose data cable. Before the competition timer starts the team member who noticed the issue alerts the other team to the problem.
 
 ## We have FUN!
+
+Two FLL team members are overheard in the following conversation,
+Jack: Why was the robot angry?
+Ben: Beats me.
+Jack: Because someone kept pushing his buttons!
+
+Samantha is working on fixing a problem with her team's robot's navigation. After several attempts and numerous failures she finally has the robot working reliably. She starts jumping up and down excitedly with a sense of accomplishment.
+
+Figures on a mat.
+Unseen forces controlling.
+Nifty little bot.
