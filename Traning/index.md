@@ -6,4 +6,4 @@
 [Advanced EV3 Robotics](Advanced_LEGO_EV3.md)
 
 ### Robot Building Instructions
-[Riley Rover](Models\RileyRover\BuildingInstructions.html)
+[Riley Rover](Models/RileyRover/BuildingInstructions.html)
