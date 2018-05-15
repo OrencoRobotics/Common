@@ -1,11 +1,12 @@
 ## Welcome to Orenco Robotics Training Materials
 
+<!---
 ### Instruction Outlines
 [Intro to EV3 Robots](Intro_to_EV3.md)
-
 [Advanced EV3 Robotics](Advanced_LEGO_EV3.md)
+-->
 
-### Instruction Videos
+### Videos
 [How to make attachments that don't look like they came from a Dr Seuss Book](https://youtu.be/pVdIsn17uc0)  
 Channel: FLL Amateur Hour  
 Published On: Nov 1, 2017  
@@ -51,6 +52,7 @@ Length: 5:18
 Description (from video):  
 >A question that I think needs answered.... how do I win at FIRST? Well that depends on what you look at as winning. Do you consider trophies winning? what is your definition of a trophy? Is it the knowledge or the hardware?
 
-
+<!---
 ### Robot Building Instructions
 [Riley Rover](Models/RileyRover/BuildingInstructions.html)
+--->
