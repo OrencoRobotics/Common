@@ -61,4 +61,4 @@ Description (from video):
 
 ## Robot Building Instructions
 [Riley Rover](Models/RileyRover/BuildingInstructions.html)  
-[SuGO Box](Models/SuGO/BuildingInstructions.html)  
+[SuGO Bot](Models/SuGO/BuildingInstructions.html)
