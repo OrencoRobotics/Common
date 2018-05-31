@@ -1,4 +1,4 @@
-## Welcome to Orenco Robotics Training Materials
+# Welcome to Orenco Robotics Training Materials
 
 <!---
 ### Instruction Outlines
@@ -6,7 +6,7 @@
 [Advanced EV3 Robotics](Advanced_LEGO_EV3.md)
 -->
 
-### Videos
+## Videos
 [How to make attachments that don't look like they came from a Dr Seuss Book](https://youtu.be/pVdIsn17uc0)  
 Channel: FLL Amateur Hour  
 Published On: Nov 1, 2017  
@@ -23,6 +23,13 @@ Description (from video):
 >3) when making something rotate, use at least two pivot points or two points of rotation
 >4) use at least two points of attachment for all pieces
 >5) make things that are easy to add and remove to the base robot
+
+[From Garbage to Great - My FLL Robot Designs Over the Years](https://youtu.be/gDlTo277MNo)  
+Channel: Builderdude35  
+Published On: Nov 30, 2017  
+Length: 13:31  
+Description (from video):
+>What were my FLL robot designs like when I competed a few years ago? Some of my viewers have asked to see the history of my competition robot designs through the years that I participated in FLL. This week, we take a look at my robot designs as I explain the distinguishing features of each one and the progression that led up to my most recent design, the ever-popular Sirius.  
 
 [Building a Lego ev3 Robot from Base Kit for FIRST LEGO League (FLL)](https://youtu.be/0DPMt2pMabU)  
 Channel: Zachary Trautwein  
@@ -52,6 +59,6 @@ Length: 5:18
 Description (from video):  
 >A question that I think needs answered.... how do I win at FIRST? Well that depends on what you look at as winning. Do you consider trophies winning? what is your definition of a trophy? Is it the knowledge or the hardware?
 
-### Robot Building Instructions
-[Riley Rover](Models/RileyRover/BuildingInstructions.html)
-[SuGO Box](Models/SuGO/BuildingInstructions.html)
+## Robot Building Instructions
+[Riley Rover](Models/RileyRover/BuildingInstructions.html)  
+[SuGO Bot](Models/SuGO/BuildingInstructions.html)
