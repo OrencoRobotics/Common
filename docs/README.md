@@ -4,6 +4,9 @@
 ### Challenge Guide Documentation
 [Into Orbit Challenge Guide](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-ChallengeGuide-A4.pdf)
 
+### Research Materials
+[Into Orbit Research YouTube Playlist](https://www.youtube.com/playlist?list=PLT3ibwoZvcqJfhhDk9PAoQfbLFd0-GWpt)
+
 ### Mission Building Instructions
 M01 - Space Travel
 
@@ -126,4 +129,5 @@ Description (from video):
 
 ## Robot Building Instructions
 [Riley Rover](Models/RileyRover/BuildingInstructions.html)  
-[SuGO Bot](Models/SuGO/BuildingInstructions.html)
+[SuGO Bot](Models/SuGO/BuildingInstructions.html)  
+[Seán 2.0](Models/Sean%202.0.pdf)
