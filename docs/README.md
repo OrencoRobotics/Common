@@ -8,65 +8,48 @@
 [Into Orbit Research YouTube Playlist](https://www.youtube.com/playlist?list=PLT3ibwoZvcqJfhhDk9PAoQfbLFd0-GWpt)
 
 ### Mission Building Instructions
-M01 - Space Travel
+M01 - Space Travel  
+[Bag 1](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_1_NonVerbal.pdf), 
+[Bag 2](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_2_NonVerbal.pdf)  
 
-[Bag 1](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_1_NonVerbal.pdf)
+M02 - Solar Panel Array  
+[Bag 2](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_2_NonVerbal.pdf) 
 
-[Bag 2](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_2_NonVerbal.pdf)
+M03 - 3D Printing  
+[Bag 6](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_6_NonVerbal.pdf) 
 
-M02 - Solar Panel Array
+M04 - Crater Crossing  
+[Bag 5](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_5_NonVerbal.pdf) 
 
-[Bag 2](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_2_NonVerbal.pdf)
+M05 - Extraction  
+[Bag 6](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_6_NonVerbal.pdf) 
 
-M03 - 3D Printing
+M06 - Space Station Modules  
+[Bag 3](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_3_NonVerbal.pdf) 
 
-[Bag 6](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_6_NonVerbal.pdf)
+M07 - Space Walk Emergency  
+[Bag 1](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_1_NonVerbal.pdf) 
 
-M04 - Crater Crossing
+M08 & M09 - Excercise  
+[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_7_NonVerbal.pdf) 
 
-[Bag 5](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_5_NonVerbal.pdf)
+M10 - Food Production  
+[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_7_NonVerbal.pdf) 
 
-M05 - Extraction
+M11 - Escape Velocity  
+[Bag 8](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_8_NonVerbal.pdf) 
 
-[Bag 6](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_6_NonVerbal.pdf)
+M12 - Satellite Orbits  
+[Bag 10](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_10_NonVerbal.pdf) 
 
-M06 - Space Station Modules
+M13 - Observatory  
+[Bag 9](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_9_NonVerbal.pdf) 
 
-[Bag 3](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_3_NonVerbal.pdf)
+M14 - Meteor Deflection  
+[Bag 8](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_8_NonVerbal.pdf) 
 
-M07 - Space Walk Emergency
-
-[Bag 1](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_1_NonVerbal.pdf)
-
-M08 & M09 - Excercise
-
-[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_7_NonVerbal.pdf)
-
-M10 - Food Production
-
-[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_7_NonVerbal.pdf)
-
-M11 - Escape Velocity
-
-[Bag 8](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_8_NonVerbal.pdf)
-
-M12 - Satellite Orbits
-
-[Bag 10](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_10_NonVerbal.pdf)
-
-M13 - Observatory
-
-[Bag 9](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_9_NonVerbal.pdf)
-
-M14 - Meteor Deflection
-
-[Bag 8](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_8_NonVerbal.pdf)
-
-M15 Lander Touch Down
-
-[Bag 4](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_4_NonVerbal.pdf)
-
-
+M15 Lander Touch Down  
+[Bag 4](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_4_NonVerbal.pdf) 
 
 <!---
 ### Instruction Outlines
@@ -130,4 +113,4 @@ Description (from video):
 ## Robot Building Instructions
 [Riley Rover](Models/RileyRover/BuildingInstructions.html)  
 [SuGO Bot](Models/SuGO/BuildingInstructions.html)  
-[Seán 2.0](Models/Sean%202.0.pdf)
+[Seán 2.0](Models/Seán_2.0.pdf)
