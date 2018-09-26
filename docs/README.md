@@ -113,4 +113,5 @@ Description (from video):
 ## Robot Building Instructions
 [Riley Rover](Models/RileyRover/BuildingInstructions.html)  
 [SuGO Bot](Models/SuGO/BuildingInstructions.html)  
-[Seán 2.0](Models/Seán_2.0.pdf)
+[Seán Mark 2](Models/Seán_2.0.pdf)
+[SeáN Mark 4](Models/Seán-Mark4.pdf)
