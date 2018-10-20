@@ -2,7 +2,7 @@
 
 ## Project Research Articles
 [NASA - Office of Planetary Protection](https://planetaryprotection.nasa.gov/)  
-[Bacteria Can Eat NASA's Cleaning Products]()
+[Bacteria Can Eat NASA's Cleaning Products](articles/bacteria.pdf)  
 <!--
 [Water on the Space Station](https://science.nasa.gov/science-news/science-at-nasa/2000/ast02nov_1)  
 [Advanced ISS technology Supports Water Purification](https://www.nasa.gov/mission_pages/station/research/benefits/water_filtration)  
