@@ -10,7 +10,7 @@
 [US astronauts drink recycled urine aboard space station but Russians refuse](https://www.theguardian.com/science/2015/aug/26/us-astronauts-recycled-urine-international-space-station)  
 -->
 ## Project Research Videos
-[What is Planetary Protection and Why is it Important?](http://viewpure.com/fnX_FGKENx8?start=0&end=0)
+[What is Planetary Protection and Why is it Important?](http://viewpure.com/fnX_FGKENx8?start=0&end=0)  
 [Keeping the Solar System Clean](http://viewpure.com/yRSqy_OTBh0?start=0&end=0)
 
 <!--[Water Recycling on the ISS](https://www.youtube.com/watch?v=BCjH3k5gODI)  
