@@ -22,7 +22,7 @@ M04 - Crater Crossing
 [Bag 5](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_5_NonVerbal.pdf) 
 
 M05 - Extraction  
-[Bag 6](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_6_NonVerbal.pdf) 
+[Bag 6](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_BAG_6_7_NonVerbal.pdf) 
 
 M06 - Space Station Modules  
 [Bag 3](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_3_NonVerbal.pdf) 
@@ -31,10 +31,10 @@ M07 - Space Walk Emergency
 [Bag 1](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_1_NonVerbal.pdf) 
 
 M08 & M09 - Excercise  
-[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_7_NonVerbal.pdf) 
+[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_BAG_6_7_NonVerbal.pdf) 
 
 M10 - Food Production  
-[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_7_NonVerbal.pdf) 
+[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_BAG_6_7_NonVerbal.pdf) 
 
 M11 - Escape Velocity  
 [Bag 8](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_8_NonVerbal.pdf) 
