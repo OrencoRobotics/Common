@@ -1,6 +1,8 @@
 # Team Omega Resources  
 
 ## Project Research Articles
+[Upsalite FAQ](https://disruptivematerials.swace.se/faq/)  
+  
 [NASA - Office of Planetary Protection](https://planetaryprotection.nasa.gov/)  
 [Inside the Cleanroom where NASA's New Mars Lander Waits to Launch](articles/inside_cleanroom.pdf)  
 [Bacteria Can Eat NASA's Cleaning Products](articles/bacteria.pdf)  
