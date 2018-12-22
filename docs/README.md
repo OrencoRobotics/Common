@@ -1,8 +1,8 @@
 # Welcome to Orenco Robotics Training Materials
 
 ## First Lego League Resources
-The Orenco Robotics club has participated in FLL events since the 2014 season.  We have collected the challenge guide and mission model building instructions for each year we've participated.
-[Past FLL Season Resources](resources/fll-resources.md)  
+The Orenco Robotics club has participated in FLL events since the 2014 season.  We have collected the challenge guide and mission model building instructions for each year we've participated.  
+[Past FLL Season Resources](fll-resources/fll-resources.md)  
 
 <!---
 ### Instruction Outlines
