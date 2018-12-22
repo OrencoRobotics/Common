@@ -1,61 +1,20 @@
 # Welcome to Orenco Robotics Training Materials
 
-## 2018 FLL Season - Into Orbit
-### Challenge Guide Documentation
-[Into Orbit Challenge Guide](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-ChallengeGuide-A4.pdf)
-
-### Research Materials
-[Into Orbit Research YouTube Playlist](https://www.youtube.com/playlist?list=PLT3ibwoZvcqJfhhDk9PAoQfbLFd0-GWpt)
-
-### Mission Building Instructions
-M01 - Space Travel  
-[Bag 1](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_1_NonVerbal.pdf), 
-[Bag 2](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_2_NonVerbal.pdf)  
-
-M02 - Solar Panel Array  
-[Bag 2](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_2_NonVerbal.pdf) 
-
-M03 - 3D Printing  
-[Bag 6](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_6_NonVerbal.pdf) 
-
-M04 - Crater Crossing  
-[Bag 5](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_5_NonVerbal.pdf) 
-
-M05 - Extraction  
-[Bag 6](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_BAG_6_7_NonVerbal.pdf) 
-
-M06 - Space Station Modules  
-[Bag 3](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_3_NonVerbal.pdf) 
-
-M07 - Space Walk Emergency  
-[Bag 1](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_1_NonVerbal.pdf) 
-
-M08 & M09 - Excercise  
-[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_BAG_6_7_NonVerbal.pdf) 
-
-M10 - Food Production  
-[Bag 7](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_BAG_6_7_NonVerbal.pdf) 
-
-M11 - Escape Velocity  
-[Bag 8](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_8_NonVerbal.pdf) 
-
-M12 - Satellite Orbits  
-[Bag 10](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_10_NonVerbal.pdf) 
-
-M13 - Observatory  
-[Bag 9](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_9_NonVerbal.pdf) 
-
-M14 - Meteor Deflection  
-[Bag 8](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_8_NonVerbal.pdf) 
-
-M15 Lander Touch Down  
-[Bag 4](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/nonverbal/45806_Bag_4_NonVerbal.pdf) 
+## First Lego League Resources
+The Orenco Robotics club has participated in FLL events since the 2014 season.  We have collected the challenge guide and mission model building instructions for each year we've participated.
+[Past FLL Season Resources](resources/fll-resources.md)  
 
 <!---
 ### Instruction Outlines
 [Intro to EV3 Robots](Intro_to_EV3.md)
 [Advanced EV3 Robotics](Advanced_LEGO_EV3.md)
 -->
+## Robot Building Instructions
+[Riley Rover](Models/RileyRover/BuildingInstructions.html)  
+[SuGO Bot](Models/SuGO/BuildingInstructions.html)  
+[Seán Mark 2](Models/Seán_2.0.pdf)  
+[SeáN Mark 4](Models/Seán-Mark4.pdf)  
+[Beale Bot](Models/BealeBot.pdf)  
 
 ## Videos
 [How to make attachments that don't look like they came from a Dr Seuss Book](https://youtu.be/pVdIsn17uc0)  
@@ -110,9 +69,3 @@ Length: 5:18
 Description (from video):  
 >A question that I think needs answered.... how do I win at FIRST? Well that depends on what you look at as winning. Do you consider trophies winning? what is your definition of a trophy? Is it the knowledge or the hardware?
 
-## Robot Building Instructions
-[Riley Rover](Models/RileyRover/BuildingInstructions.html)  
-[SuGO Bot](Models/SuGO/BuildingInstructions.html)  
-[Seán Mark 2](Models/Seán_2.0.pdf)  
-[SeáN Mark 4](Models/Seán-Mark4.pdf)  
-[Beale Bot](Models/BealeBot.pdf)  
