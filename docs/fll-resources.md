@@ -2,31 +2,20 @@
 
 ## 2018 FLL Season - Into Orbit 
 ### [Challenge Guide](2018-guide.pdf) 
-### Mission Model Building Instructions
-[2018 Part 1](fll-resources/2018-1.zip)
-[2018 Part 2](fll-resources/2018-2.zip)
+### [Mission Model Building Instructions](https://firstinspiresst01.blob.core.windows.net/fll/2019/mission-models/BuildInstructions-Nonverbal.zip)
 
 ## 2017 FLL Season - HydroDynamics
 ### [Challenge Guide](2017-guide.pdf)  
-### Mission Model Building Instructions
-[2017 Part 1](fll-resources/2017.zip)
+### [Mission Model Building Instructions](https://firstinspiresst01.blob.core.windows.net/fll-2017-build/NonVerbal.zip)
 
 ## 2016 FLL Season - Animal Allies
 ### [Challenge Guide](2016-guide.pdf)  
-### Mission Model Building Instructions
-[2016 Part 1](fll-resources/2016-1.zip)
-[2016 Part 2](fll-resources/2016-2.zip)
-[2016 Part 3](fll-resources/2016-3.zip)
-[2016 Part 4](fll-resources/2016-4.zip)
+### [Mission Model Building Instructions](http://www.firstlegoleague.org/sites/default/files/animal-allies/mission-models/non-verbal/PDF%20Non%20Verbal%20%2813%20files%29.zip)
 
 ## 2015 FLL Season - Trash Trek
 ### [Challenge Guide](2015-guide.pdf)  
-### Mission Model Building Instructions
-[2015 Part 1](fll-resources/2015-1.zip)
-[2015 Part 2](fll-resources/2015-2.zip)
-[2015 Part 3](fll-resources/2015-3.zip)
+### [Mission Model Building Instructions](http://www.firstlegoleague.org/sites/default/files/trash-trek/trash-trek-mission-model-build.zip)
 
 ## 2014 FLL Season - World Class
 ### [Challenge Guide](2015-guide.pdf)  
-### Mission Model Building Instructions
-[2014 Part 1](fll-resources/2014.zip)
+### [Mission Model Building Instructions](http://www.firstlegoleague.org/sites/default/files/fll-world-class/fll-world-class-mission-models.zip)
