@@ -15,7 +15,7 @@ The Orenco Robotics club has participated in FLL events since the 2014 season.  
 [Seán Mark 2](Models/Seán_2.0.pdf)  
 [SeáN Mark 4](Models/Seán-Mark4.pdf)  
 [Beale Bot](Models/BealeBot.pdf)  
-[Box Box](Models/box_box2.pdf)  
+[Box Box](Models/boxbox_2.pdf)  
 
 ## Videos
 [How to make attachments that don't look like they came from a Dr Seuss Book](https://youtu.be/pVdIsn17uc0)  
