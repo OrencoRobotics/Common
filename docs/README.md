@@ -9,8 +9,6 @@ The Orenco Robotics club has participated in FLL events since the 2014 season.  
 [Intro to EV3 Robots](Intro_to_EV3.md)
 [Advanced EV3 Robotics](Advanced_LEGO_EV3.md)
 -->
-## Test
-[Large Motor Tests](largemotortests.md)
 
 ## Robot Building Instructions
 [Riley Rover](Models/RileyRover/BuildingInstructions.html)  
