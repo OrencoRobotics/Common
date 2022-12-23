@@ -1,22 +1,26 @@
 # Welcome to Orenco Robotics Training Materials
 
-## First Lego League Resources
-The Orenco Robotics club has participated in FLL events since the 2014 season.  We have collected the challenge guide and mission model building instructions for each year we've participated.  
-[Past FLL Season Resources](fll-resources.md)  
-
-<!---
-### Instruction Outlines
-[Intro to EV3 Robots](Intro_to_EV3.md)
-[Advanced EV3 Robotics](Advanced_LEGO_EV3.md)
--->
+## LEGO Software Resources
+[EV3 Classroom Download](https://education.lego.com/en-us/downloads/mindstorms-ev3/software#downloads)  
+[EV3 Lab Download](https://education.lego.com/en-us/downloads/retiredproducts/mindstorms-ev3-lab/software)  
 
 ## Robot Building Instructions
 [Riley Rover](Models/RileyRover/BuildingInstructions.html)  
 [SuGO Bot](Models/SuGO/BuildingInstructions.html)  
 [Seán Mark 2](Models/Seán_2.0.pdf)  
-[SeáN Mark 4](Models/Seán-Mark4.pdf)  
+[Seán Mark 4](Models/Seán-Mark4.pdf)  
 [Beale Bot](Models/BealeBot.pdf)  
 [Box Bot](Models/boxbot_2.pdf)  
+
+<!---
+
+## First Lego League Resources
+The Orenco Robotics club has participated in FLL events since the 2014 season.  We have collected the challenge guide and mission model building instructions for each year we've participated.  
+[Past FLL Season Resources](fll-resources.md)  
+
+### Instruction Outlines
+[Intro to EV3 Robots](Intro_to_EV3.md)
+[Advanced EV3 Robotics](Advanced_LEGO_EV3.md)
 
 ## Videos
 [How to make attachments that don't look like they came from a Dr Seuss Book](https://youtu.be/pVdIsn17uc0)  
@@ -70,4 +74,5 @@ Published On: Feb 5, 2018
 Length: 5:18  
 Description (from video):  
 >A question that I think needs answered.... how do I win at FIRST? Well that depends on what you look at as winning. Do you consider trophies winning? what is your definition of a trophy? Is it the knowledge or the hardware?
+-->
 
